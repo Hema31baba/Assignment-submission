@@ -1,0 +1,8 @@
+import math
+
+x = int(input("  Enter any Positive Integer : "))
+y = int(input("   Enter Exponent Value : "))
+
+power = math.pow(number, exponent)
+    
+print("The Result of {0} Power {1} = {2}".format(number, exponent, power))
